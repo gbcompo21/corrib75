@@ -12,9 +12,9 @@ Open the .gb ROM file in a GameBoy emulator, or use an MBC5-compatible flash car
 
 ## Contents
 
-code/ 		human generated C source files
-assets/ 	mostly auto-generated source files with tile, map and music data
-borrowed/	code from GBDK-2020 and gbt-player
+    code/ 		human generated C source files
+    assets/ 	mostly auto-generated source files with tile, map and music data
+    borrowed/	code from GBDK-2020 and gbt-player
 
 ## License
 
